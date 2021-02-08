@@ -1,8 +1,10 @@
 # Gastos_App
 
+<h2>Export files from ""Gastos_App.7z"" to "C:".</h2>
+
 <div>
-  <p>Es una aplicación para cargar los gastos mensuales.</p>
-  <p>Extraer la carpeta "Gastos_App.7z" en "C:"</p>
+  <p>It is an application to charge monthly expenses.</p>
+  
 </div>
 
 <p align="center">
